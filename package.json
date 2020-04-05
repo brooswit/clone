@@ -1,0 +1,9 @@
+{
+  "name": "clone",
+  "version": "0.0.1",
+  "description": "The worst object cloning library on the internet",
+  "main": "index.js",
+  "repository": "https://github.com/brooswit/clone",
+  "author": "John Winstead <jwinstead@launchdarkly.com>",
+  "license": "MIT"
+}
